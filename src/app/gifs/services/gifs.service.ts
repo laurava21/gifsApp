@@ -19,7 +19,7 @@ export class GifsService {
   /**
    * Service url
    */
-  private serviceUrl : string = 'http://api.giphy.com/v1/gifs';
+  private serviceUrl : string = 'https://api.giphy.com/v1/gifs';
 
   /**
    * Historial: is the array with the searchs
